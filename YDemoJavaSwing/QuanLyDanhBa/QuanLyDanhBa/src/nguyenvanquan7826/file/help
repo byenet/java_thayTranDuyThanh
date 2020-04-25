@@ -1,0 +1,9 @@
+             CHƯƠNG TRÌNH QUẢN LÝ DANH BẠ
+
+Phần trên cùng của cửa sổ chương trình là thanh tìm kiếm có thể thực hiện việc tìm kiếm theo tên, số điện thoại, nhóm hoặc địa chỉ của các liên hệ.
+
+Phần giữa là một danh sách chi tiết các liên hệ.
+
+Góc dưới phải gồm 3 nút điều khiến là "Thêm", "Sửa", "Xóa". Khi nhấp vào nút "Thêm" hoặc "Sửa" chương trình sẽ hiển thị ra một cửa sổ giúp người dùng nhập hoặc sửa được các thông tin của liên hệ. Ngoài ra trên cửa sổ đó có nút để thêm nhóm mới. Muốn sửa hoặc xóa được liên hệ thì cần chọn vào liên hệ đó.
+
+Dưới cùng là thanh trạng thái hiển thị thông tin về việc tìm kiếm.
