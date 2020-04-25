@@ -1,0 +1,11 @@
+package huy.com;
+
+public class TestHanChe {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int []M = {4, 2, 8, 7, 5};
+		System.out.println(M[]);
+	}
+
+}
