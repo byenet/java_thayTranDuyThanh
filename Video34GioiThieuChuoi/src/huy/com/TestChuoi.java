@@ -3,7 +3,7 @@ package huy.com;
 import com.sun.org.apache.xpath.internal.operations.Equals;
 
 public class TestChuoi {
-	// https://techtalk.vn/ban-da-thuc-su-hieu-ro-string-chua.html
+	// https://viblo.asia/p/java-su-khac-nhau-giua-string-stringbuilder-va-stringbuffer-hieu-ro-va-sau-hon-ve-string-trong-java-Eb85on62l2G
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String s1 = new String();
