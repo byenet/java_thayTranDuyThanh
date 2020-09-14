@@ -29,7 +29,7 @@ public class TestToiUuChuoi {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s = "  Tran    duY   THanh  ";
+		String s = "     Tran    duY   THanh  ";
 		String sToiUu = toiUu(s);
 		System.out.println("Chuoi truoc khi toi uu: "+s);
 		System.out.println("Chuoi sau khi toi uu: "+ sToiUu);
