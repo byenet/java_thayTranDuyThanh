@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class TestArrayList {
 	//https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html#add-int-E-
-	//https://techblog.vn/arraylist-trong-java
+	//https://www.java67.com/2017/04/how-to-convert-java-8-stream-to-array-and-list-in-java.html
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
