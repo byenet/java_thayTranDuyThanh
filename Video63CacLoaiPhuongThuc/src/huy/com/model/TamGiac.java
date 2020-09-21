@@ -54,7 +54,7 @@ public class TamGiac {
 	
 	public double tinhDienTich() {
 		double p = tinhNuaChuVi();
-		double dt = Math.sqrt(p*(p-this.canhA)*(p-this.canhB)*(p-this.canhC)); // Cong thuc hê-rông
+		double dt = Math.sqrt(p*(p-this.canhA)*(p-this.canhB)*(p-this.canhC)); // Cong thuc hï¿½-rï¿½ng
 		return dt;
 	}
 	
