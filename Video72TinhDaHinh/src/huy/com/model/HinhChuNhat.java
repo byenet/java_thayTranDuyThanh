@@ -2,8 +2,6 @@ package huy.com.model;
 
 public class HinhChuNhat extends HinhHoc {
 
-	
-	
 	public HinhChuNhat() {
 		super();
 		// TODO Auto-generated constructor stub
